@@ -1,0 +1,34 @@
+.footer-container{
+    background-color: #6699CC;
+    color: white;
+}
+
+.footer-copyright-section{
+    background-color: #6699CC;
+}
+
+.footer-container.p{
+    color: #e7e7e7;
+}
+
+.footer-container-link{
+    color: #e7e7e7;
+    text-decoration: none;
+}
+
+.btn-primary {
+    --bs-btn-color: #fff;
+    --bs-btn-bg: #6699CC;
+    --bs-btn-border-color: #6699CC;
+    --bs-btn-hover-color: #fff;
+    --bs-btn-hover-bg: #73abe4;
+    --bs-btn-hover-border-color: #73abe4;
+    --bs-btn-focus-shadow-rgb: 49, 132, 253;
+    --bs-btn-active-color: #fff;
+    --bs-btn-active-bg: #5d8bb9;
+    --bs-btn-active-border-color: #5d8bb9;
+    --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
+    --bs-btn-disabled-color: #fff;
+    --bs-btn-disabled-bg: #6699CC;
+    --bs-btn-disabled-border-color: #6699CC;
+}
